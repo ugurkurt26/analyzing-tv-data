@@ -1,4 +1,4 @@
-# analyzing-tv-data
+# Analyzing TV Data
 
 ## Project Description
 
